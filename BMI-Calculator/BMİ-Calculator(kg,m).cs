@@ -3,7 +3,7 @@ using System;
 
 
 namespace BmiCalculator{
-class program
+class Program
 {
 
     static void Main(string[] args)
