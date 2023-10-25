@@ -1,0 +1,14 @@
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\alışveriş\obj\Debug\net7.0\alışveriş.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\alışveriş\obj\Debug\net7.0\alışveriş.AssemblyInfoInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\alışveriş\obj\Debug\net7.0\alışveriş.AssemblyInfo.cs
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\alışveriş\obj\Debug\net7.0\alışveriş.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\alışveriş\bin\Debug\net7.0\alışveriş.exe
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\alışveriş\bin\Debug\net7.0\alışveriş.deps.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\alışveriş\bin\Debug\net7.0\alışveriş.runtimeconfig.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\alışveriş\bin\Debug\net7.0\alışveriş.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\alışveriş\bin\Debug\net7.0\alışveriş.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\alışveriş\obj\Debug\net7.0\alışveriş.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\alışveriş\obj\Debug\net7.0\refint\alışveriş.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\alışveriş\obj\Debug\net7.0\alışveriş.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\alışveriş\obj\Debug\net7.0\alışveriş.genruntimeconfig.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\alışveriş\obj\Debug\net7.0\ref\alışveriş.dll

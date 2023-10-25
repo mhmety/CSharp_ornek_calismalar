@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "x,y değerleri için/1.0.0": {
+        "runtime": {
+          "x,y değerleri için.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "x,y değerleri için/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

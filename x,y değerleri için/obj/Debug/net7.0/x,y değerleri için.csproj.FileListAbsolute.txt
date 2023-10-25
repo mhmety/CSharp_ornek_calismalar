@@ -1,0 +1,14 @@
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\x,y değerleri için\bin\Debug\net7.0\x,y değerleri için.exe
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\x,y değerleri için\bin\Debug\net7.0\x,y değerleri için.deps.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\x,y değerleri için\bin\Debug\net7.0\x,y değerleri için.runtimeconfig.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\x,y değerleri için\bin\Debug\net7.0\x,y değerleri için.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\x,y değerleri için\bin\Debug\net7.0\x,y değerleri için.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\x,y değerleri için\obj\Debug\net7.0\x,y değerleri için.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\x,y değerleri için\obj\Debug\net7.0\x,y değerleri için.AssemblyInfoInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\x,y değerleri için\obj\Debug\net7.0\x,y değerleri için.AssemblyInfo.cs
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\x,y değerleri için\obj\Debug\net7.0\x,y değerleri için.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\x,y değerleri için\obj\Debug\net7.0\x,y değerleri için.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\x,y değerleri için\obj\Debug\net7.0\refint\x,y değerleri için.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\x,y değerleri için\obj\Debug\net7.0\x,y değerleri için.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\x,y değerleri için\obj\Debug\net7.0\x,y değerleri için.genruntimeconfig.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\x,y değerleri için\obj\Debug\net7.0\ref\x,y değerleri için.dll

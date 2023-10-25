@@ -1,0 +1,14 @@
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\haftaici-sonu\bin\Debug\net7.0\haftaici-sonu.exe
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\haftaici-sonu\bin\Debug\net7.0\haftaici-sonu.deps.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\haftaici-sonu\bin\Debug\net7.0\haftaici-sonu.runtimeconfig.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\haftaici-sonu\bin\Debug\net7.0\haftaici-sonu.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\haftaici-sonu\bin\Debug\net7.0\haftaici-sonu.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\haftaici-sonu\obj\Debug\net7.0\haftaici-sonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\haftaici-sonu\obj\Debug\net7.0\haftaici-sonu.AssemblyInfoInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\haftaici-sonu\obj\Debug\net7.0\haftaici-sonu.AssemblyInfo.cs
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\haftaici-sonu\obj\Debug\net7.0\haftaici-sonu.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\haftaici-sonu\obj\Debug\net7.0\haftaici-sonu.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\haftaici-sonu\obj\Debug\net7.0\refint\haftaici-sonu.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\haftaici-sonu\obj\Debug\net7.0\haftaici-sonu.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\haftaici-sonu\obj\Debug\net7.0\haftaici-sonu.genruntimeconfig.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\haftaici-sonu\obj\Debug\net7.0\ref\haftaici-sonu.dll

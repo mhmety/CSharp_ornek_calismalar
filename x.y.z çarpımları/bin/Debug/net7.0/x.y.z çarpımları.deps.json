@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "x.y.z çarpımları/1.0.0": {
+        "runtime": {
+          "x.y.z çarpımları.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "x.y.z çarpımları/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

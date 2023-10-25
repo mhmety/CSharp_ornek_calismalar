@@ -1,0 +1,4 @@
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\Csharp denklem yazma\obj\Debug\net7.0\Csharp denklem yazma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\Csharp denklem yazma\obj\Debug\net7.0\Csharp denklem yazma.AssemblyInfoInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\Csharp denklem yazma\obj\Debug\net7.0\Csharp denklem yazma.AssemblyInfo.cs
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\Csharp denklem yazma\obj\Debug\net7.0\Csharp denklem yazma.csproj.CoreCompileInputs.cache
