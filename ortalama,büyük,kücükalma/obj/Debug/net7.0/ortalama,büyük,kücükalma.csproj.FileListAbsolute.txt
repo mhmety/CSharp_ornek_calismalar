@@ -1,0 +1,14 @@
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ortalama,büyük,kücükalma\bin\Debug\net7.0\ortalama,büyük,kücükalma.exe
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ortalama,büyük,kücükalma\bin\Debug\net7.0\ortalama,büyük,kücükalma.deps.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ortalama,büyük,kücükalma\bin\Debug\net7.0\ortalama,büyük,kücükalma.runtimeconfig.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ortalama,büyük,kücükalma\bin\Debug\net7.0\ortalama,büyük,kücükalma.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ortalama,büyük,kücükalma\bin\Debug\net7.0\ortalama,büyük,kücükalma.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ortalama,büyük,kücükalma\obj\Debug\net7.0\ortalama,büyük,kücükalma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ortalama,büyük,kücükalma\obj\Debug\net7.0\ortalama,büyük,kücükalma.AssemblyInfoInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ortalama,büyük,kücükalma\obj\Debug\net7.0\ortalama,büyük,kücükalma.AssemblyInfo.cs
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ortalama,büyük,kücükalma\obj\Debug\net7.0\ortalama,büyük,kücükalma.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ortalama,büyük,kücükalma\obj\Debug\net7.0\ortalama,büyük,kücükalma.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ortalama,büyük,kücükalma\obj\Debug\net7.0\refint\ortalama,büyük,kücükalma.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ortalama,büyük,kücükalma\obj\Debug\net7.0\ortalama,büyük,kücükalma.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ortalama,büyük,kücükalma\obj\Debug\net7.0\ortalama,büyük,kücükalma.genruntimeconfig.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ortalama,büyük,kücükalma\obj\Debug\net7.0\ref\ortalama,büyük,kücükalma.dll

@@ -1,0 +1,14 @@
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar2\obj\Debug\net7.0\c-_ornek_calismalar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar2\obj\Debug\net7.0\c-_ornek_calismalar2.AssemblyInfoInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar2\obj\Debug\net7.0\c-_ornek_calismalar2.AssemblyInfo.cs
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar2\obj\Debug\net7.0\c-_ornek_calismalar2.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar2\bin\Debug\net7.0\c-_ornek_calismalar2.exe
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar2\bin\Debug\net7.0\c-_ornek_calismalar2.deps.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar2\bin\Debug\net7.0\c-_ornek_calismalar2.runtimeconfig.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar2\bin\Debug\net7.0\c-_ornek_calismalar2.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar2\bin\Debug\net7.0\c-_ornek_calismalar2.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar2\obj\Debug\net7.0\c-_ornek_calismalar2.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar2\obj\Debug\net7.0\refint\c-_ornek_calismalar2.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar2\obj\Debug\net7.0\c-_ornek_calismalar2.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar2\obj\Debug\net7.0\c-_ornek_calismalar2.genruntimeconfig.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar2\obj\Debug\net7.0\ref\c-_ornek_calismalar2.dll
