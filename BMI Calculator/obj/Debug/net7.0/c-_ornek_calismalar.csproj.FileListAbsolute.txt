@@ -12,3 +12,17 @@ C:\Users\Mehmet Yıldız\c-_ornek_calismalar\obj\Debug\net7.0\refint\c-_ornek_ca
 C:\Users\Mehmet Yıldız\c-_ornek_calismalar\obj\Debug\net7.0\c-_ornek_calismalar.pdb
 C:\Users\Mehmet Yıldız\c-_ornek_calismalar\obj\Debug\net7.0\c-_ornek_calismalar.genruntimeconfig.cache
 C:\Users\Mehmet Yıldız\c-_ornek_calismalar\obj\Debug\net7.0\ref\c-_ornek_calismalar.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\BMI Calculator\bin\Debug\net7.0\c-_ornek_calismalar.exe
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\BMI Calculator\bin\Debug\net7.0\c-_ornek_calismalar.deps.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\BMI Calculator\bin\Debug\net7.0\c-_ornek_calismalar.runtimeconfig.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\BMI Calculator\bin\Debug\net7.0\c-_ornek_calismalar.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\BMI Calculator\bin\Debug\net7.0\c-_ornek_calismalar.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\BMI Calculator\obj\Debug\net7.0\c-_ornek_calismalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\BMI Calculator\obj\Debug\net7.0\c-_ornek_calismalar.AssemblyInfoInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\BMI Calculator\obj\Debug\net7.0\c-_ornek_calismalar.AssemblyInfo.cs
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\BMI Calculator\obj\Debug\net7.0\c-_ornek_calismalar.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\BMI Calculator\obj\Debug\net7.0\c-_ornek_calismalar.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\BMI Calculator\obj\Debug\net7.0\refint\c-_ornek_calismalar.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\BMI Calculator\obj\Debug\net7.0\c-_ornek_calismalar.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\BMI Calculator\obj\Debug\net7.0\c-_ornek_calismalar.genruntimeconfig.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\BMI Calculator\obj\Debug\net7.0\ref\c-_ornek_calismalar.dll

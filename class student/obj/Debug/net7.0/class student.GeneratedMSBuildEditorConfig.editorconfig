@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = c__ornek_calismalar
-build_property.ProjectDir = C:\Users\Mehmet Yıldız\c-_ornek_calismalar\BMI Calculator\
+build_property.RootNamespace = class_student
+build_property.ProjectDir = C:\Users\Mehmet Yıldız\c-_ornek_calismalar\class student\

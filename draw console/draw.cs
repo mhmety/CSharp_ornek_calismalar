@@ -3,9 +3,12 @@
 namespace draw{
     class Program{
         static void Main(){
+            Console.WriteLine("konsola kutu,oval,ok ve elmas çizimi;");
 
             Console.WriteLine("box:");
             Console.WriteLine("********");
+            Console.WriteLine("*      *");
+            Console.WriteLine("*      *");
             Console.WriteLine("*      *");
             Console.WriteLine("*      *");
             Console.WriteLine("*      *");
@@ -28,9 +31,7 @@ namespace draw{
             Console.WriteLine("   *   ");
             Console.WriteLine("   *   ");
             Console.WriteLine("   *   ");
-            Console.WriteLine("   *   ");
-            Console.WriteLine("   *   ");
-            Console.WriteLine("   *   ");
+           
 
             Console.WriteLine("Diamond:");
             Console.WriteLine("   *   ");

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mehmet Yıldız\\c-_ornek_calismalar\\BMI Calculator\\c-_ornek_calismalar.csproj",
-      "projectName": "c-_ornek_calismalar",
-      "projectPath": "C:\\Users\\Mehmet Yıldız\\c-_ornek_calismalar\\BMI Calculator\\c-_ornek_calismalar.csproj",
+      "projectUniqueName": "C:\\Users\\Mehmet Yıldız\\c-_ornek_calismalar\\class student\\class student.csproj",
+      "projectName": "class student",
+      "projectPath": "C:\\Users\\Mehmet Yıldız\\c-_ornek_calismalar\\class student\\class student.csproj",
       "packagesPath": "C:\\Users\\Mehmet Yıldız\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mehmet Yıldız\\c-_ornek_calismalar\\BMI Calculator\\obj\\",
+      "outputPath": "C:\\Users\\Mehmet Yıldız\\c-_ornek_calismalar\\class student\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mehmet Yıldız\\AppData\\Roaming\\NuGet\\NuGet.Config"
