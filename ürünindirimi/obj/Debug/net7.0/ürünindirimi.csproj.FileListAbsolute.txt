@@ -1,0 +1,14 @@
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ürünindirimi\obj\Debug\net7.0\ürünindirimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ürünindirimi\obj\Debug\net7.0\ürünindirimi.AssemblyInfoInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ürünindirimi\obj\Debug\net7.0\ürünindirimi.AssemblyInfo.cs
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ürünindirimi\obj\Debug\net7.0\ürünindirimi.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ürünindirimi\bin\Debug\net7.0\ürünindirimi.exe
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ürünindirimi\bin\Debug\net7.0\ürünindirimi.deps.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ürünindirimi\bin\Debug\net7.0\ürünindirimi.runtimeconfig.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ürünindirimi\bin\Debug\net7.0\ürünindirimi.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ürünindirimi\bin\Debug\net7.0\ürünindirimi.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ürünindirimi\obj\Debug\net7.0\ürünindirimi.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ürünindirimi\obj\Debug\net7.0\refint\ürünindirimi.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ürünindirimi\obj\Debug\net7.0\ürünindirimi.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ürünindirimi\obj\Debug\net7.0\ürünindirimi.genruntimeconfig.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\ürünindirimi\obj\Debug\net7.0\ref\ürünindirimi.dll
