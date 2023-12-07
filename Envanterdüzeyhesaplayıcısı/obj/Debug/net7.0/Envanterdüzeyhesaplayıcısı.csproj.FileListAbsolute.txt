@@ -1,0 +1,14 @@
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\Envanterdüzeyhesaplayıcısı\bin\Debug\net7.0\Envanterdüzeyhesaplayıcısı.exe
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\Envanterdüzeyhesaplayıcısı\bin\Debug\net7.0\Envanterdüzeyhesaplayıcısı.deps.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\Envanterdüzeyhesaplayıcısı\bin\Debug\net7.0\Envanterdüzeyhesaplayıcısı.runtimeconfig.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\Envanterdüzeyhesaplayıcısı\bin\Debug\net7.0\Envanterdüzeyhesaplayıcısı.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\Envanterdüzeyhesaplayıcısı\bin\Debug\net7.0\Envanterdüzeyhesaplayıcısı.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\Envanterdüzeyhesaplayıcısı\obj\Debug\net7.0\Envanterdüzeyhesaplayıcısı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\Envanterdüzeyhesaplayıcısı\obj\Debug\net7.0\Envanterdüzeyhesaplayıcısı.AssemblyInfoInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\Envanterdüzeyhesaplayıcısı\obj\Debug\net7.0\Envanterdüzeyhesaplayıcısı.AssemblyInfo.cs
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\Envanterdüzeyhesaplayıcısı\obj\Debug\net7.0\Envanterdüzeyhesaplayıcısı.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\Envanterdüzeyhesaplayıcısı\obj\Debug\net7.0\Envanterdüzeyhesaplayıcısı.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\Envanterdüzeyhesaplayıcısı\obj\Debug\net7.0\refint\Envanterdüzeyhesaplayıcısı.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\Envanterdüzeyhesaplayıcısı\obj\Debug\net7.0\Envanterdüzeyhesaplayıcısı.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\Envanterdüzeyhesaplayıcısı\obj\Debug\net7.0\Envanterdüzeyhesaplayıcısı.genruntimeconfig.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\Envanterdüzeyhesaplayıcısı\obj\Debug\net7.0\ref\Envanterdüzeyhesaplayıcısı.dll
