@@ -1,0 +1,14 @@
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\7.zaroyunu\obj\Debug\net7.0\7.zaroyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\7.zaroyunu\obj\Debug\net7.0\7.zaroyunu.AssemblyInfoInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\7.zaroyunu\obj\Debug\net7.0\7.zaroyunu.AssemblyInfo.cs
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\7.zaroyunu\obj\Debug\net7.0\7.zaroyunu.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\7.zaroyunu\bin\Debug\net7.0\7.zaroyunu.exe
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\7.zaroyunu\bin\Debug\net7.0\7.zaroyunu.deps.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\7.zaroyunu\bin\Debug\net7.0\7.zaroyunu.runtimeconfig.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\7.zaroyunu\bin\Debug\net7.0\7.zaroyunu.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\7.zaroyunu\bin\Debug\net7.0\7.zaroyunu.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\7.zaroyunu\obj\Debug\net7.0\7.zaroyunu.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\7.zaroyunu\obj\Debug\net7.0\refint\7.zaroyunu.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\7.zaroyunu\obj\Debug\net7.0\7.zaroyunu.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\7.zaroyunu\obj\Debug\net7.0\7.zaroyunu.genruntimeconfig.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\7.zaroyunu\obj\Debug\net7.0\ref\7.zaroyunu.dll
