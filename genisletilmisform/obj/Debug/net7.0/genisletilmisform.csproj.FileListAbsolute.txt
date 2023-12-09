@@ -1,0 +1,14 @@
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\genisletilmisform\obj\Debug\net7.0\genisletilmisform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\genisletilmisform\obj\Debug\net7.0\genisletilmisform.AssemblyInfoInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\genisletilmisform\obj\Debug\net7.0\genisletilmisform.AssemblyInfo.cs
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\genisletilmisform\obj\Debug\net7.0\genisletilmisform.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\genisletilmisform\bin\Debug\net7.0\genisletilmisform.exe
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\genisletilmisform\bin\Debug\net7.0\genisletilmisform.deps.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\genisletilmisform\bin\Debug\net7.0\genisletilmisform.runtimeconfig.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\genisletilmisform\bin\Debug\net7.0\genisletilmisform.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\genisletilmisform\bin\Debug\net7.0\genisletilmisform.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\genisletilmisform\obj\Debug\net7.0\genisletilmisform.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\genisletilmisform\obj\Debug\net7.0\refint\genisletilmisform.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\genisletilmisform\obj\Debug\net7.0\genisletilmisform.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\genisletilmisform\obj\Debug\net7.0\genisletilmisform.genruntimeconfig.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\genisletilmisform\obj\Debug\net7.0\ref\genisletilmisform.dll

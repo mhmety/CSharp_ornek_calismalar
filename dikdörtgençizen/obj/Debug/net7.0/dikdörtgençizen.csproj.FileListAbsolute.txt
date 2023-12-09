@@ -1,0 +1,14 @@
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dikdörtgençizen\obj\Debug\net7.0\dikdörtgençizen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dikdörtgençizen\obj\Debug\net7.0\dikdörtgençizen.AssemblyInfoInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dikdörtgençizen\obj\Debug\net7.0\dikdörtgençizen.AssemblyInfo.cs
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dikdörtgençizen\obj\Debug\net7.0\dikdörtgençizen.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dikdörtgençizen\bin\Debug\net7.0\dikdörtgençizen.exe
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dikdörtgençizen\bin\Debug\net7.0\dikdörtgençizen.deps.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dikdörtgençizen\bin\Debug\net7.0\dikdörtgençizen.runtimeconfig.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dikdörtgençizen\bin\Debug\net7.0\dikdörtgençizen.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dikdörtgençizen\bin\Debug\net7.0\dikdörtgençizen.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dikdörtgençizen\obj\Debug\net7.0\dikdörtgençizen.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dikdörtgençizen\obj\Debug\net7.0\refint\dikdörtgençizen.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dikdörtgençizen\obj\Debug\net7.0\dikdörtgençizen.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dikdörtgençizen\obj\Debug\net7.0\dikdörtgençizen.genruntimeconfig.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dikdörtgençizen\obj\Debug\net7.0\ref\dikdörtgençizen.dll

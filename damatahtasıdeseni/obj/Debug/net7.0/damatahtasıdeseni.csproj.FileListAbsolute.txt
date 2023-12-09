@@ -1,0 +1,14 @@
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\damatahtasıdeseni\bin\Debug\net7.0\damatahtasıdeseni.exe
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\damatahtasıdeseni\bin\Debug\net7.0\damatahtasıdeseni.deps.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\damatahtasıdeseni\bin\Debug\net7.0\damatahtasıdeseni.runtimeconfig.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\damatahtasıdeseni\bin\Debug\net7.0\damatahtasıdeseni.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\damatahtasıdeseni\bin\Debug\net7.0\damatahtasıdeseni.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\damatahtasıdeseni\obj\Debug\net7.0\damatahtasıdeseni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\damatahtasıdeseni\obj\Debug\net7.0\damatahtasıdeseni.AssemblyInfoInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\damatahtasıdeseni\obj\Debug\net7.0\damatahtasıdeseni.AssemblyInfo.cs
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\damatahtasıdeseni\obj\Debug\net7.0\damatahtasıdeseni.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\damatahtasıdeseni\obj\Debug\net7.0\damatahtasıdeseni.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\damatahtasıdeseni\obj\Debug\net7.0\refint\damatahtasıdeseni.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\damatahtasıdeseni\obj\Debug\net7.0\damatahtasıdeseni.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\damatahtasıdeseni\obj\Debug\net7.0\damatahtasıdeseni.genruntimeconfig.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\damatahtasıdeseni\obj\Debug\net7.0\ref\damatahtasıdeseni.dll

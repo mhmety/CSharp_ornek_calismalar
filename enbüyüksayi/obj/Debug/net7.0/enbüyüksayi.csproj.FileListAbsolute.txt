@@ -1,0 +1,14 @@
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\enbüyüksayi\obj\Debug\net7.0\enbüyüksayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\enbüyüksayi\obj\Debug\net7.0\enbüyüksayi.AssemblyInfoInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\enbüyüksayi\obj\Debug\net7.0\enbüyüksayi.AssemblyInfo.cs
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\enbüyüksayi\obj\Debug\net7.0\enbüyüksayi.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\enbüyüksayi\bin\Debug\net7.0\enbüyüksayi.exe
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\enbüyüksayi\bin\Debug\net7.0\enbüyüksayi.deps.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\enbüyüksayi\bin\Debug\net7.0\enbüyüksayi.runtimeconfig.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\enbüyüksayi\bin\Debug\net7.0\enbüyüksayi.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\enbüyüksayi\bin\Debug\net7.0\enbüyüksayi.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\enbüyüksayi\obj\Debug\net7.0\enbüyüksayi.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\enbüyüksayi\obj\Debug\net7.0\refint\enbüyüksayi.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\enbüyüksayi\obj\Debug\net7.0\enbüyüksayi.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\enbüyüksayi\obj\Debug\net7.0\enbüyüksayi.genruntimeconfig.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\enbüyüksayi\obj\Debug\net7.0\ref\enbüyüksayi.dll

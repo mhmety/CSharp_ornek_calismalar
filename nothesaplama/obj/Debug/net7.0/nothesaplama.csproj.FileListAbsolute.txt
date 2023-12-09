@@ -1,0 +1,14 @@
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\nothesaplama\bin\Debug\net7.0\nothesaplama.exe
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\nothesaplama\bin\Debug\net7.0\nothesaplama.deps.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\nothesaplama\bin\Debug\net7.0\nothesaplama.runtimeconfig.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\nothesaplama\bin\Debug\net7.0\nothesaplama.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\nothesaplama\bin\Debug\net7.0\nothesaplama.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\nothesaplama\obj\Debug\net7.0\nothesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\nothesaplama\obj\Debug\net7.0\nothesaplama.AssemblyInfoInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\nothesaplama\obj\Debug\net7.0\nothesaplama.AssemblyInfo.cs
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\nothesaplama\obj\Debug\net7.0\nothesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\nothesaplama\obj\Debug\net7.0\nothesaplama.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\nothesaplama\obj\Debug\net7.0\refint\nothesaplama.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\nothesaplama\obj\Debug\net7.0\nothesaplama.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\nothesaplama\obj\Debug\net7.0\nothesaplama.genruntimeconfig.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\nothesaplama\obj\Debug\net7.0\ref\nothesaplama.dll
