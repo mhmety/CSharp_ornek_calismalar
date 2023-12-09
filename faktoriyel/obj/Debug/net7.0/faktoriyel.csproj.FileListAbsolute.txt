@@ -1,0 +1,14 @@
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\faktoriyel\bin\Debug\net7.0\faktoriyel.exe
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\faktoriyel\bin\Debug\net7.0\faktoriyel.deps.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\faktoriyel\bin\Debug\net7.0\faktoriyel.runtimeconfig.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\faktoriyel\bin\Debug\net7.0\faktoriyel.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\faktoriyel\bin\Debug\net7.0\faktoriyel.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\faktoriyel\obj\Debug\net7.0\faktoriyel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\faktoriyel\obj\Debug\net7.0\faktoriyel.AssemblyInfoInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\faktoriyel\obj\Debug\net7.0\faktoriyel.AssemblyInfo.cs
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\faktoriyel\obj\Debug\net7.0\faktoriyel.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\faktoriyel\obj\Debug\net7.0\faktoriyel.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\faktoriyel\obj\Debug\net7.0\refint\faktoriyel.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\faktoriyel\obj\Debug\net7.0\faktoriyel.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\faktoriyel\obj\Debug\net7.0\faktoriyel.genruntimeconfig.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\faktoriyel\obj\Debug\net7.0\ref\faktoriyel.dll

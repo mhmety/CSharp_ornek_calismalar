@@ -1,0 +1,14 @@
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dunyanufusartisi\bin\Debug\net7.0\dunyanufusartisi.exe
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dunyanufusartisi\bin\Debug\net7.0\dunyanufusartisi.deps.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dunyanufusartisi\bin\Debug\net7.0\dunyanufusartisi.runtimeconfig.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dunyanufusartisi\bin\Debug\net7.0\dunyanufusartisi.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dunyanufusartisi\bin\Debug\net7.0\dunyanufusartisi.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dunyanufusartisi\obj\Debug\net7.0\dunyanufusartisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dunyanufusartisi\obj\Debug\net7.0\dunyanufusartisi.AssemblyInfoInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dunyanufusartisi\obj\Debug\net7.0\dunyanufusartisi.AssemblyInfo.cs
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dunyanufusartisi\obj\Debug\net7.0\dunyanufusartisi.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dunyanufusartisi\obj\Debug\net7.0\dunyanufusartisi.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dunyanufusartisi\obj\Debug\net7.0\refint\dunyanufusartisi.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dunyanufusartisi\obj\Debug\net7.0\dunyanufusartisi.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dunyanufusartisi\obj\Debug\net7.0\dunyanufusartisi.genruntimeconfig.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\dunyanufusartisi\obj\Debug\net7.0\ref\dunyanufusartisi.dll
