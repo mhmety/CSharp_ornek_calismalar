@@ -1,0 +1,14 @@
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\construtors\obj\Debug\net7.0\construtors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\construtors\obj\Debug\net7.0\construtors.AssemblyInfoInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\construtors\obj\Debug\net7.0\construtors.AssemblyInfo.cs
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\construtors\obj\Debug\net7.0\construtors.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\construtors\bin\Debug\net7.0\construtors.exe
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\construtors\bin\Debug\net7.0\construtors.deps.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\construtors\bin\Debug\net7.0\construtors.runtimeconfig.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\construtors\bin\Debug\net7.0\construtors.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\construtors\bin\Debug\net7.0\construtors.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\construtors\obj\Debug\net7.0\construtors.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\construtors\obj\Debug\net7.0\refint\construtors.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\construtors\obj\Debug\net7.0\construtors.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\construtors\obj\Debug\net7.0\construtors.genruntimeconfig.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\construtors\obj\Debug\net7.0\ref\construtors.dll

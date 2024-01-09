@@ -1,0 +1,14 @@
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\şifreleme\şifrelemeprogramı\bin\Debug\net7.0\şifrelemeprogramı.exe
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\şifreleme\şifrelemeprogramı\bin\Debug\net7.0\şifrelemeprogramı.deps.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\şifreleme\şifrelemeprogramı\bin\Debug\net7.0\şifrelemeprogramı.runtimeconfig.json
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\şifreleme\şifrelemeprogramı\bin\Debug\net7.0\şifrelemeprogramı.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\şifreleme\şifrelemeprogramı\bin\Debug\net7.0\şifrelemeprogramı.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\şifreleme\şifrelemeprogramı\obj\Debug\net7.0\şifrelemeprogramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\şifreleme\şifrelemeprogramı\obj\Debug\net7.0\şifrelemeprogramı.AssemblyInfoInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\şifreleme\şifrelemeprogramı\obj\Debug\net7.0\şifrelemeprogramı.AssemblyInfo.cs
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\şifreleme\şifrelemeprogramı\obj\Debug\net7.0\şifrelemeprogramı.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\şifreleme\şifrelemeprogramı\obj\Debug\net7.0\şifrelemeprogramı.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\şifreleme\şifrelemeprogramı\obj\Debug\net7.0\refint\şifrelemeprogramı.dll
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\şifreleme\şifrelemeprogramı\obj\Debug\net7.0\şifrelemeprogramı.pdb
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\şifreleme\şifrelemeprogramı\obj\Debug\net7.0\şifrelemeprogramı.genruntimeconfig.cache
+C:\Users\Mehmet Yıldız\c-_ornek_calismalar\şifreleme\şifrelemeprogramı\obj\Debug\net7.0\ref\şifrelemeprogramı.dll

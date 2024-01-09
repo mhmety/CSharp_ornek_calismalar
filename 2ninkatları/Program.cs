@@ -10,3 +10,26 @@ class Program{
         }
     }
 }
+
+
+
+
+using System;
+
+ class Mystery{
+    static void Main()
+    {
+        int number = 1;
+        int sum1 = 0, sum2 = 0;
+
+        while (number <= 15)
+        {
+        if (number % 2 != 0)
+        sum1 += number;
+        else
+        sum2 += number;
+        ++number;
+        Console.WriteLine($"{sum1} \t {sum2}");
+        }
+    }
+}

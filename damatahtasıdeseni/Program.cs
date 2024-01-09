@@ -13,11 +13,10 @@ class Program
                     Console.Write("* ");
                 }
                 else
-                {
+                
                     Console.Write("  ");
-                }
             }
-            Console.WriteLine();
         }
+        Console.WriteLine();
     }
 }
