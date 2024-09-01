@@ -5,7 +5,7 @@ class Program{
 
         for(int i=0 ;i<40;i++){
             Console.WriteLine(ikininkatlari);
-            ikininkatlari *= 23;
+            ikininkatlari *= 2;
             
         }
     }
