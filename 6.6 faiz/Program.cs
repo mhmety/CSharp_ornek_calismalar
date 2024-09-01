@@ -4,7 +4,7 @@ class interest{
 
 static void Main()
 {
-    Console.WriteLine("miktari giriniz: ");
+    Console.WriteLine("miktari giriikiininiz: ");
     decimal para = Convert.ToInt32(Console.ReadLine());
     decimal principal = para; // para  
     double rate = 0.025; // faiz oranı
